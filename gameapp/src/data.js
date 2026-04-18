@@ -11,7 +11,7 @@ const questions = [
   },
   {
     question: "What year was React released?",
-    options: ["2013", "2015", "2016", "2012"],
+    options: ["2013", "2015", "2016", "2012,2016"],
     answer: "2013",
   },
 ];
